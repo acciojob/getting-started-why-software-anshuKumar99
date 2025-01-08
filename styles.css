@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+#text{
+	font-size:18px;
+	text-align:center;
+	font-weight:bold;
+	color:purple;
+	background-color:cyan;
+}
